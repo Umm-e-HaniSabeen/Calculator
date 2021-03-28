@@ -1,0 +1,27 @@
+body{ 
+    background: #fceabb;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f8b500, #fceabb);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f8b500, #fceabb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+h1{text-align: center; }
+.main{ border-style: dashed;text-align: center;
+}
+button{color: #d9a7c7;background-color: black;margin-top: 20px;border: solid rgb(88, 75, 78)
+ 
+}
+
+
+.ebtn{height :30px;
+    width: 90px;
+
+}
+.btn{width:45px;
+height: 30px;  }
+
+.eibtn{
+    width: 63px;
+height:30px;
+
+}
