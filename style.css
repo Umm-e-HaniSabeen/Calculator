@@ -1,27 +1,31 @@
-body{ 
-    background: #fceabb;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #f8b500, #fceabb);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #f8b500, #fceabb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    
+body{
+    background: #654ea3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
-h1{text-align: center; }
-.main{ border-style: dashed;text-align: center;
+
+input{width:500px ;height:60px;background-color: rgb(223, 159, 223);
+
 }
-button{color: #d9a7c7;background-color: black;margin-top: 20px;border: solid rgb(88, 75, 78)
+h1{text-align: center;  text-size-adjust:  100px; text-transform: uppercase ; }
+
+.main{ border-style:solid;writing-mode: horizontal-tb;
+    text-align: center;font: size 50px; ;
+}
+button{color: #d9a7c7;background-color: black;margin-top: 22px;border: solid rgb(88, 75, 78)
  
 }
 
 
-.ebtn{height :30px;
-    width: 90px;
-
+.ebtn{height :60px; width: 250px;
+    
 }
-.btn{width:45px;
-height: 30px;  }
+.btn{width: 120px;
+height: 60px;  }
 
 .eibtn{
-    width: 63px;
-height:30px;
+    width:159px;
+height:60px;
 
 }
